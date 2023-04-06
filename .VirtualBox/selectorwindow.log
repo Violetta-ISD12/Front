@@ -1,0 +1,17 @@
+00:00:00.594239 VirtualBox GUI VM Selector Window 6.1.38 r153438 win.amd64 (Sep  1 2022 14:20:23) release log
+00:00:00.594241 Log opened 2022-10-26T13:24:43.481328600Z
+00:00:00.594242 Build Type: release
+00:00:00.594243 OS Product: Windows 11
+00:00:00.594244 OS Release: 10.0.22000
+00:00:00.594245 OS Service Pack: 
+00:00:00.602325 DMI Product Name: Nitro AN515-54
+00:00:00.605113 DMI Product Version: V1.31
+00:00:00.605118 Firmware type: UEFI
+00:00:00.605657 Secure Boot: Enabled
+00:00:00.605667 Host RAM: 16221MB (15.8GB) total, 8145MB (7.9GB) available
+00:00:00.605675 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:00.605676 Process ID: 11756
+00:00:00.605676 Package type: WINDOWS_64BITS_GENERIC
+00:00:00.605775 Qt version: 5.6.2
+00:00:00.613677 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.613698 GUI: UIMediumEnumerator: Medium-enumeration finished!
